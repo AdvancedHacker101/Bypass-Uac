@@ -26,6 +26,10 @@ After this the High IL Dll executes the R.A.T client with admin privs
 
 The tool was tested on a Windows7 x64 bit machine  
 The source code in this form only works with the c# R.A.T client, but you can modify it for your own project  
+## More Information  
+You can read information related to contribution [here](https://github.com/AdvancedHacker101/Bypass-Uac/blob/master/CONTRIBUTING.md)  
+You can read the Code of Conduct [here](https://github.com/AdvancedHacker101/Bypass-Uac/blob/master/CODE_OF_CONDUCT.md)  
+You can view the project's licence [here](https://github.com/AdvancedHacker101/Bypass-Uac/blob/master/LICENSE)  
 *Happy Coding*
 
 **-Advanced Hacking 101**
