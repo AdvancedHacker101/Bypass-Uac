@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<unattend xmlns="urn:schemas-microsoft-com:unattend">
+    <servicing>
+        <package action="install">
+            <assemblyIdentity  name="Package_1_for_KB929761" version="6.0.1.1" language="neutral" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35"/>
+            <source location="C:\Users\TestWin7\Desktop\targetDir\Windows6.0-KB929761-x86.CAB" />
+        </package>
+     </servicing>
+</unattend>
