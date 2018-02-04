@@ -1,6 +1,11 @@
 # Bypass UAC
 This project can bypass UAC on an administrator account with default UAC settings  
 The project contains snippets from the UacMe project by hfiref0x, but formatted to work with the [c# R.A.T Client](https://github.com/AdvancedHacker101/C-Sharp-R.A.T-Client)  
+## Disclaimer
+This application is for educational purposes only.  
+Using this tool without understanding how it's working can lead to negative consequences  
+I'm not responsible for the consequences of using this tool!  
+Only run it on a computer you have permission to!
 ## How it works
 The bypass has 2 main parts  
 1. Copy a fake dll to System32  
